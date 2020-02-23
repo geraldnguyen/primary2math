@@ -78,7 +78,7 @@ function AnswerBox({ expected }) {
   return (
     <div className="MathAnswerBox">
       <input
-        type="text"
+        type="number"
         className={className}
         placeholder={answer === undefined ? "?" : answer}
         value={answer === undefined ? "" : answer}
