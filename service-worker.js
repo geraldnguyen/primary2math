@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://geraldnguyen.github.io/primary2math/precache-manifest.ba628df9ad8cfe47090f01753f7e842f.js"
+  "https://geraldnguyen.github.io/primary2math/precache-manifest.5bafbe415200d54ac29fe562c6590386.js"
 );
 
 self.addEventListener('message', (event) => {
