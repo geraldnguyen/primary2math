@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://github.com/geraldnguyen/primary2math/static/css/main.bdeaeada.chunk.css",
-    "main.js": "https://github.com/geraldnguyen/primary2math/static/js/main.c3daac4b.chunk.js",
-    "main.js.map": "https://github.com/geraldnguyen/primary2math/static/js/main.c3daac4b.chunk.js.map",
-    "runtime~main.js": "https://github.com/geraldnguyen/primary2math/static/js/runtime~main.bd67d869.js",
-    "runtime~main.js.map": "https://github.com/geraldnguyen/primary2math/static/js/runtime~main.bd67d869.js.map",
-    "static/js/2.b3322a27.chunk.js": "https://github.com/geraldnguyen/primary2math/static/js/2.b3322a27.chunk.js",
-    "static/js/2.b3322a27.chunk.js.map": "https://github.com/geraldnguyen/primary2math/static/js/2.b3322a27.chunk.js.map",
-    "index.html": "https://github.com/geraldnguyen/primary2math/index.html",
-    "precache-manifest.0afe18c2dddc6a239f8e7a8aa2a26ec7.js": "https://github.com/geraldnguyen/primary2math/precache-manifest.0afe18c2dddc6a239f8e7a8aa2a26ec7.js",
-    "service-worker.js": "https://github.com/geraldnguyen/primary2math/service-worker.js",
-    "static/css/main.bdeaeada.chunk.css.map": "https://github.com/geraldnguyen/primary2math/static/css/main.bdeaeada.chunk.css.map"
+    "main.css": "https://geraldnguyen.github.io/primary2math/static/css/main.bdeaeada.chunk.css",
+    "main.js": "https://geraldnguyen.github.io/primary2math/static/js/main.c3daac4b.chunk.js",
+    "main.js.map": "https://geraldnguyen.github.io/primary2math/static/js/main.c3daac4b.chunk.js.map",
+    "runtime~main.js": "https://geraldnguyen.github.io/primary2math/static/js/runtime~main.363736e7.js",
+    "runtime~main.js.map": "https://geraldnguyen.github.io/primary2math/static/js/runtime~main.363736e7.js.map",
+    "static/js/2.b3322a27.chunk.js": "https://geraldnguyen.github.io/primary2math/static/js/2.b3322a27.chunk.js",
+    "static/js/2.b3322a27.chunk.js.map": "https://geraldnguyen.github.io/primary2math/static/js/2.b3322a27.chunk.js.map",
+    "index.html": "https://geraldnguyen.github.io/primary2math/index.html",
+    "precache-manifest.ba628df9ad8cfe47090f01753f7e842f.js": "https://geraldnguyen.github.io/primary2math/precache-manifest.ba628df9ad8cfe47090f01753f7e842f.js",
+    "service-worker.js": "https://geraldnguyen.github.io/primary2math/service-worker.js",
+    "static/css/main.bdeaeada.chunk.css.map": "https://geraldnguyen.github.io/primary2math/static/css/main.bdeaeada.chunk.css.map"
   }
 }
